@@ -1,4 +1,4 @@
-BOT_TOKEN = '1768420201:AAEscjhFU9a-4a_oeDcBCQ4rrfgD65j8XoE'
+BOT_TOKEN = ''
 SCHEDULER_TIMEZONE = 'Europe/Moscow'
 
 daily_trigger = {
