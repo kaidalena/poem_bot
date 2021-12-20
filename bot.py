@@ -74,6 +74,7 @@ def daily(m, res=False):
         },
         **config.daily_trigger['every_day']
     )
+    bot.send_message(m.chat.id, f"Вы зарагистрировались на ежедневную рассылку {chr(config.emoji['smile'])}")
 
 
 # Функция, обрабатывающая команду /now
